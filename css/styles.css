@@ -133,7 +133,7 @@ body {
 our-team-cards {
   background-color: var(--primary-bg);
 }
-/* content-footer-site */
+/* content-footer-studio */
 .footer-site {
   background-color: var(--nav-blue);
 }
@@ -193,6 +193,14 @@ our-team-cards {
 }
 .link {
   text-decoration: none;
+}
+.gallery {
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.02em;
+  color: var(--nav-blue);
 }
 /* footer-portfolio */
 .foot-paragraph {
